@@ -1,0 +1,15 @@
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\bin\Debug\net6.0\ActividadArreglos.exe
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\bin\Debug\net6.0\ActividadArreglos.deps.json
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\bin\Debug\net6.0\ActividadArreglos.runtimeconfig.json
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\bin\Debug\net6.0\ActividadArreglos.dll
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\bin\Debug\net6.0\ActividadArreglos.pdb
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.dll
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\refint\ActividadArreglos.dll
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.pdb
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ActividadArreglos.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Documentos\Trabajo Git\ActividadArreglos\ActividadArreglos\obj\Debug\net6.0\ref\ActividadArreglos.dll
